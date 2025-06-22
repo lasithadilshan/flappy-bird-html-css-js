@@ -1,0 +1,41 @@
+# Node modules (in case of using npm for future enhancements)
+node_modules/
+
+# Mac system files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# npm debug files
+npm-debug.log*
+
+# Build output (if ever used)
+dist/
+build/
+out/
+
+# Environment files
+.env
+.env.*
+
+# SASS/SCSS Cache
+.sass-cache/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# IDE files
+.idea/
+*.iml
